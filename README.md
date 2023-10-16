@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgebazerashvili" alt="georgebazerashvili" /></a> </p>
 
-- 🔭 I’m currently working on **Chat app**
+- 🔭 I’m currently working on **E-commerce App**
 
-- 🌱 I’m currently learning **Express, MongoDB, Socket.IO**
-
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning **Node.js + Express**
 
 - 📫 How to reach me **georgebazerashvili200@gmail.com**
 
